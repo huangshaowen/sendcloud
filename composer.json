@@ -17,5 +17,5 @@
             "sendcloud\\": "src/"
         }
     },
-    "minimum-stability": "master"
+    "minimum-stability": "stable"
 }
