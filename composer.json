@@ -1,0 +1,20 @@
+{
+    "name": "huangshaowen/sendcloud",
+    "type": "library",
+    "license": "MIT",
+    "description": " sendcloud.sohu.com 封装 加入 命名空间",
+    "authors": [
+        {
+            "name": "huangshaowen",
+            "email": "40477536@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "sendcloud\\": "src/"
+        }
+    }
+}
