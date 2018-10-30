@@ -16,5 +16,6 @@
         "psr-4": {
             "sendcloud\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "master"
 }
